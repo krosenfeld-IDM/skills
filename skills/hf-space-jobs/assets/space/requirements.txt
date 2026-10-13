@@ -1,0 +1,4 @@
+# Pin every version: an unpinned image can change between two runs of the same job.
+# Match the versions of the environment the results must transfer to.
+huggingface_hub
+torch
